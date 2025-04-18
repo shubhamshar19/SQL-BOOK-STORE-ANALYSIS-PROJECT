@@ -73,6 +73,8 @@ SQL Questions
 
 
 Thank You
+
+
 Turning Pages into Patterns: Uncovering Bookstore Trends with SQL...
 
 
